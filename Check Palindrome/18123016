@@ -1,0 +1,5 @@
+def check palindrome(string):
+  return string == string[: :-1]
+  
+  if name == " main ":
+   print(check palindrome("abcba")
